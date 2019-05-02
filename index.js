@@ -1,3 +1,3 @@
 function takeANumber(line, name) {
-  if (line.length <= )
+  if (line.length <= 0)
 }
